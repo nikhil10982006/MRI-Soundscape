@@ -1,0 +1,8 @@
+Improve audio visualizer to use dynamic colors for better display
+
+Update the AudioVisualizer component to dynamically fetch and utilize CSS variables for primary, secondary, and muted colors, enabling more flexible and visually appealing soundscape representations.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 82a31720-2fa9-44bd-81c7-94b66768b0a9
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a48fe01d-3a18-42d5-a680-956c62fee1ff/82a31720-2fa9-44bd-81c7-94b66768b0a9/mOYO4yK
